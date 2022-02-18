@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="system.xml" />
     <mask>*.php4</mask>
     <mask>*.phtml</mask>
     <mask>*.php5</mask>
@@ -26,12 +29,12 @@
     <mask>di.xml</mask>
     <mask>system</mask>
     <mask>!*less</mask>
-    <mask>system.xml</mask>
     <mask>*.css</mask>
     <mask>*less</mask>
     <mask>*php</mask>
     <mask>*phtml</mask>
     <mask>*js</mask>
     <mask>*xml</mask>
+    <mask>system.xml</mask>
   </component>
 </application>
