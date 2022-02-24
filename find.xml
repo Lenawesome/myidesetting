@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.php5</mask>
+    <option name="FILE_MASK" value="!*test*" />
     <mask>*.ctp</mask>
     <mask>*.hphp</mask>
     <mask>*.module</mask>
@@ -30,8 +30,9 @@
     <mask>*phtml</mask>
     <mask>*xml</mask>
     <mask>system.xml</mask>
-    <mask>!*test*</mask>
     <mask>*js</mask>
     <mask>!*js</mask>
+    <mask>!*test</mask>
+    <mask>!*test*</mask>
   </component>
 </application>
