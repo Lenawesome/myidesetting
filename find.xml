@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.less" />
+    <option name="FILE_MASK" value="*phtml" />
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.inc</mask>
@@ -26,7 +26,6 @@
     <mask>*.css</mask>
     <mask>*less</mask>
     <mask>*php</mask>
-    <mask>*phtml</mask>
     <mask>*xml</mask>
     <mask>system.xml</mask>
     <mask>*js</mask>
@@ -34,5 +33,6 @@
     <mask>!*test</mask>
     <mask>!*test*</mask>
     <mask>*.less</mask>
+    <mask>*phtml</mask>
   </component>
 </application>
