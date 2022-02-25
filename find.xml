@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*xml" />
+    <option name="FILE_MASK" value="*less" />
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.inc</mask>
@@ -24,7 +26,6 @@
     <mask>system</mask>
     <mask>!*less</mask>
     <mask>*.css</mask>
-    <mask>*less</mask>
     <mask>*php</mask>
     <mask>system.xml</mask>
     <mask>*js</mask>
@@ -34,5 +35,6 @@
     <mask>*.less</mask>
     <mask>*phtml</mask>
     <mask>*xml</mask>
+    <mask>*less</mask>
   </component>
 </application>
