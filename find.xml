@@ -1,13 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.php</mask>
+    <option name="FILE_MASK" value="*xml" />
     <mask>menu.xml</mask>
     <mask>routes.xml</mask>
     <mask>!*test.php</mask>
@@ -30,12 +26,13 @@
     <mask>!*test</mask>
     <mask>!*test*</mask>
     <mask>*.less</mask>
-    <mask>*xml</mask>
     <mask>*less</mask>
     <mask>*xml,</mask>
     <mask>*xml, !di.xml</mask>
     <mask>*require</mask>
     <mask>*js</mask>
     <mask>*phtml</mask>
+    <mask>*php, !*test*</mask>
+    <mask>*xml</mask>
   </component>
 </application>
