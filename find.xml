@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*xml" />
     <mask>menu.xml</mask>
     <mask>routes.xml</mask>
     <mask>!*test.php</mask>
@@ -20,7 +19,6 @@
     <mask>system</mask>
     <mask>!*less</mask>
     <mask>*.css</mask>
-    <mask>*php</mask>
     <mask>system.xml</mask>
     <mask>!*js</mask>
     <mask>!*test</mask>
@@ -34,5 +32,6 @@
     <mask>*phtml</mask>
     <mask>*php, !*test*</mask>
     <mask>*xml</mask>
+    <mask>*php</mask>
   </component>
 </application>
