@@ -7,7 +7,6 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*php" />
     <mask>menu.xml</mask>
     <mask>routes.xml</mask>
     <mask>!*test.php</mask>
@@ -20,7 +19,6 @@
     <mask>.js</mask>
     <mask>webapi.xml</mask>
     <mask>*php, !*test.php</mask>
-    <mask>di.xml</mask>
     <mask>system</mask>
     <mask>!*less</mask>
     <mask>*.css</mask>
@@ -38,5 +36,6 @@
     <mask>*xml</mask>
     <mask>*phtml</mask>
     <mask>*php</mask>
+    <mask>di.xml</mask>
   </component>
 </application>
