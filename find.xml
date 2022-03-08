@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>menu.xml</mask>
+    <option name="FILE_MASK" value="requirejs-config.js" />
     <mask>routes.xml</mask>
     <mask>!*test.php</mask>
     <mask>!*Test.php</mask>
@@ -37,5 +37,6 @@
     <mask>*phtml</mask>
     <mask>*php</mask>
     <mask>di.xml</mask>
+    <mask>requirejs-config.js</mask>
   </component>
 </application>
