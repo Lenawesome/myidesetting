@@ -21,7 +21,6 @@
     <mask>system.xml</mask>
     <mask>!*js</mask>
     <mask>!*test</mask>
-    <mask>!*test*</mask>
     <mask>*.less</mask>
     <mask>*less</mask>
     <mask>*xml,</mask>
@@ -33,6 +32,7 @@
     <mask>*phtml</mask>
     <mask>*php</mask>
     <mask>requirejs-config.js</mask>
+    <mask>!*test*</mask>
     <mask>di.xml</mask>
   </component>
 </application>
