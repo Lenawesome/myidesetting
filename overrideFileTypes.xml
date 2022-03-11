@@ -1,5 +1,6 @@
 <application>
   <component name="OverrideFileTypeManager">
+    <file url="file:///var/www/greatestgood/vendor/magento/framework/Filesystem/Driver/File.php" value="PHP" />
     <file url="file:///var/www/greatestgood/vendor/magento/framework/View/Asset/File.php" value="PHP" />
   </component>
 </application>
