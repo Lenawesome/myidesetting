@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*test*" />
     <mask>routes.xml</mask>
     <mask>!*test.php</mask>
     <mask>!*Test.php</mask>
@@ -31,7 +32,7 @@
     <mask>*php</mask>
     <mask>requirejs-config.js</mask>
     <mask>di.xml</mask>
-    <mask>!*test*</mask>
     <mask>*xml</mask>
+    <mask>!*test*</mask>
   </component>
 </application>
