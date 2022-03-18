@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>routes.xml</mask>
-    <mask>!*test.php</mask>
+    <option name="FILE_MASK" value="!system.xml, *form.xml" />
     <mask>!*Test.php</mask>
     <mask>!*php, !*txt, !*xml, !*md, !*lock, !*html,, !*test*, !*less, !*css, !*jquery*</mask>
     <mask>!*css</mask>
@@ -33,5 +32,7 @@
     <mask>di.xml</mask>
     <mask>*xml</mask>
     <mask>!*test*</mask>
+    <mask>!*test*, *xml</mask>
+    <mask>!system.xml, *form.xml</mask>
   </component>
 </application>
