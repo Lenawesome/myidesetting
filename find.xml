@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*xml,!*test*" />
+    <option name="FILE_MASK" value="requirejs-config.js" />
     <mask>!*css</mask>
     <mask>!*css, !*less</mask>
     <mask>!*example</mask>
@@ -25,7 +25,6 @@
     <mask>*php, !*test*</mask>
     <mask>*js</mask>
     <mask>*phtml</mask>
-    <mask>requirejs-config.js</mask>
     <mask>di.xml</mask>
     <mask>*xml</mask>
     <mask>!*test*</mask>
@@ -34,5 +33,6 @@
     <mask>*php</mask>
     <mask>*php,  !*test</mask>
     <mask>*xml,!*test*</mask>
+    <mask>requirejs-config.js</mask>
   </component>
 </application>
