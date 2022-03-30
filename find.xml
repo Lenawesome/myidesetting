@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="webapi.xml" />
+    <option name="FILE_MASK" value="!*test*" />
     <mask>!*css</mask>
     <mask>!*css, !*less</mask>
     <mask>!*example</mask>
@@ -32,7 +32,7 @@
     <mask>requirejs-config.js</mask>
     <mask>*xml</mask>
     <mask>*js</mask>
-    <mask>!*test*</mask>
     <mask>webapi.xml</mask>
+    <mask>!*test*</mask>
   </component>
 </application>
