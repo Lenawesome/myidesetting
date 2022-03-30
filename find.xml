@@ -3,13 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*test*" />
+    <option name="FILE_MASK" value="webapi.xml" />
     <mask>!*css</mask>
     <mask>!*css, !*less</mask>
     <mask>!*example</mask>
     <mask>event.xml</mask>
     <mask>.js</mask>
-    <mask>webapi.xml</mask>
     <mask>*php, !*test.php</mask>
     <mask>system</mask>
     <mask>!*less</mask>
@@ -34,5 +33,6 @@
     <mask>*xml</mask>
     <mask>*js</mask>
     <mask>!*test*</mask>
+    <mask>webapi.xml</mask>
   </component>
 </application>
