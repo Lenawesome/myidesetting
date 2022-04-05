@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>event.xml</mask>
+    <option name="FILE_MASK" value="!*css, !*less" />
     <mask>.js</mask>
     <mask>*php, !*test.php</mask>
     <mask>system</mask>
@@ -33,5 +33,6 @@
     <mask>!*xml, !*test*, *php</mask>
     <mask>*checkou</mask>
     <mask>*xml</mask>
+    <mask>!*css, !*less</mask>
   </component>
 </application>
