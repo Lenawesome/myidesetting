@@ -3,8 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>.js</mask>
-    <mask>*php, !*test.php</mask>
     <mask>system</mask>
     <mask>!*less</mask>
     <mask>*.css</mask>
@@ -33,5 +31,7 @@
     <mask>!*css, !*less</mask>
     <mask>*xml</mask>
     <mask>*php</mask>
+    <mask>!.md</mask>
+    <mask>!*.md</mask>
   </component>
 </application>
