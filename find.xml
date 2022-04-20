@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>!*test</mask>
+    <option name="FILE_MASK" value="webapi.xml" />
     <mask>*.less</mask>
     <mask>*less</mask>
     <mask>*xml,</mask>
@@ -18,7 +18,6 @@
     <mask>*xml,!*test*</mask>
     <mask>requirejs-config.js</mask>
     <mask>*js</mask>
-    <mask>webapi.xml</mask>
     <mask>!*test*</mask>
     <mask>!*xml, !*test*</mask>
     <mask>!*xml, !*test*, *php</mask>
@@ -33,5 +32,7 @@
     <mask>*.js</mask>
     <mask>*.js, !*test*</mask>
     <mask>*require*</mask>
+    <mask>*xml*</mask>
+    <mask>webapi.xml</mask>
   </component>
 </application>
