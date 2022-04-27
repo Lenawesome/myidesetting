@@ -15,7 +15,6 @@
     <mask>*php,  !*test</mask>
     <mask>*xml,!*test*</mask>
     <mask>requirejs-config.js</mask>
-    <mask>*js</mask>
     <mask>!*test*</mask>
     <mask>!*xml, !*test*</mask>
     <mask>!*xml, !*test*, *php</mask>
@@ -33,6 +32,7 @@
     <mask>webapi.xml</mask>
     <mask>*.phtml</mask>
     <mask>*.js</mask>
+    <mask>*js</mask>
     <mask>*form.xml</mask>
   </component>
 </application>
