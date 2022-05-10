@@ -3,13 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="webapi.xml" />
+    <option name="FILE_MASK" value="di.xml" />
     <mask>*xml,</mask>
     <mask>*xml, !di.xml</mask>
     <mask>*require</mask>
     <mask>*php, !*test*</mask>
     <mask>*phtml</mask>
-    <mask>di.xml</mask>
     <mask>!*test*, *xml</mask>
     <mask>!system.xml, *form.xml</mask>
     <mask>*php,  !*test</mask>
@@ -34,5 +33,6 @@
     <mask>*js</mask>
     <mask>*form.xml</mask>
     <mask>webapi.xml</mask>
+    <mask>di.xml</mask>
   </component>
 </application>
