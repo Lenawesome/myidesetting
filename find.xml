@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*xml, !di.xml</mask>
     <mask>*require</mask>
     <mask>*php, !*test*</mask>
@@ -26,12 +27,12 @@
     <mask>*.js, !*test*</mask>
     <mask>*xml*</mask>
     <mask>*.phtml</mask>
-    <mask>*.js</mask>
     <mask>*js</mask>
     <mask>*form.xml</mask>
     <mask>webapi.xml</mask>
     <mask>di.xml</mask>
     <mask>*_form.xml</mask>
     <mask>*require*</mask>
+    <mask>*.js</mask>
   </component>
 </application>
