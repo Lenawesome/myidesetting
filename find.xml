@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="sections.xml" />
     <mask>*require</mask>
     <mask>*php, !*test*</mask>
     <mask>*phtml</mask>
@@ -31,8 +30,8 @@
     <mask>webapi.xml</mask>
     <mask>*_form.xml</mask>
     <mask>*require*</mask>
-    <mask>*.js</mask>
     <mask>di.xml</mask>
     <mask>sections.xml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
