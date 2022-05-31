@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.less, !*test*" />
+    <option name="FILE_MASK" value="*form.xml" />
     <mask>*phtml</mask>
     <mask>!*test*, *xml</mask>
     <mask>!system.xml, *form.xml</mask>
@@ -25,7 +25,6 @@
     <mask>*xml*</mask>
     <mask>*.phtml</mask>
     <mask>*js</mask>
-    <mask>*form.xml</mask>
     <mask>webapi.xml</mask>
     <mask>*_form.xml</mask>
     <mask>*require*</mask>
@@ -34,5 +33,6 @@
     <mask>di.xml</mask>
     <mask>!*.less</mask>
     <mask>!*.less, !*test*</mask>
+    <mask>*form.xml</mask>
   </component>
 </application>
