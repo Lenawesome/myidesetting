@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.less" />
-    <mask>*php, !*test*</mask>
+    <option name="FILE_MASK" value="!*.less, !*test*" />
     <mask>*phtml</mask>
     <mask>!*test*, *xml</mask>
     <mask>!system.xml, *form.xml</mask>
@@ -34,5 +33,6 @@
     <mask>*.js</mask>
     <mask>di.xml</mask>
     <mask>!*.less</mask>
+    <mask>!*.less, !*test*</mask>
   </component>
 </application>
